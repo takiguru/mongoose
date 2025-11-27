@@ -5,6 +5,8 @@
 
 'use strict';
 
+console.log('🦊 Mongoose fork is running');
+
 const mongoose = require('./lib/');
 
 module.exports = mongoose;
